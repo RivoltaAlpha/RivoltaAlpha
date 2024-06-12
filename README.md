@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mwaniki Tifany</h1>
-<h3 align="center">I am a Fullstack software developer and passionate Python Enthusiast</h3>
+<h1 align="center">Hi There 👋, I'm Mwaniki Tifany</h1>
+<h3 align="center">I am a Fullstack software developer and a Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivoltaaplha&label=Profile%20views&color=0e75b6&style=flat" alt="rivoltaaplha" /> </p>
 
