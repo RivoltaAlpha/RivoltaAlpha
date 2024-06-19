@@ -29,4 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RivoltaAlpha&show_icons=true&locale=en" alt="RivoltaAlpha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RivoltaAlpha&" alt="RivoltaAlpha" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RivoltaAlpha&show_icons=true&locale=en&layout=compact" alt="RivoltaAlpha" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RivoltaAlpha" alt="RivoltaAlpha" /></a></p>
