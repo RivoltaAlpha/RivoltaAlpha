@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Mwaniki Tifany</h1>
-<p>I am a Fullstack software developer and a Python Enthusiast</p>
+<h1>Hi 👋, I'm Tifany</h1>
+<p>I'm a DevOps Engineer & a Fullstack software developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
