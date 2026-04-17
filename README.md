@@ -63,8 +63,3 @@ DevOps Engineer & Fullstack Software Developer
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RivoltaAlpha&show_icons=true&locale=en&layout=compact)
 
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RivoltaAlpha)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RivoltaAlpha&show_icons=true&locale=en&layout=compact)
-
-</div>
